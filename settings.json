@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "AFKnoob",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "fifa",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
+    "ip": "Darksmp-sTf0.aternos.me",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
