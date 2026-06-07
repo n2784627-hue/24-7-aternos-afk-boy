@@ -1,12 +1,12 @@
 {
   "name": "AFKnoob",
   "bot-account": {
-    "username": "fifa",
+    "username "Senpaispider",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Darksmp-sTf0.aternos.me",
+    "ip": "Darksmp6.aternos.me",
     "port": 25612,
     "version": "1.20.1",
     "try-creative": false
@@ -41,9 +41,9 @@
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
-  "movement": {
+  "movement": true
     "enabled": true,
-    "circle-walk": {
+    "circle-walk": true
       "enabled": true,
       "radius": 4,
       "speed": 3000
